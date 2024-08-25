@@ -1,8 +1,13 @@
-# React + Vite
+# Projeto Kanban
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+## Descrição
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+#### Este é um aplicativo Kanban que permite aos usuários gerenciar suas tarefas de forma eficiente e visual. O aplicativo permite criar, mover e excluir tarefas entre diferentes colunas representando diferentes estágios do processo (como "Pendente", "Fazendo" e "Completo"). 
+
+
+#### Frontend: React
+#### Backend: Node.js com Express
+#### Estilização: CSS com Bootstrap
+
+#### Este projeto é um projeto de aprendizado.Conforme avanço nos estudos melhorias serão implantadas
