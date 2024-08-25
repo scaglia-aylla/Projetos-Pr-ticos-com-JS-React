@@ -7,7 +7,7 @@
 
 
 #### Frontend: React
-#### Backend: Node.js com Express
-#### Estilização: CSS com Bootstrap
+#### Backend: Node.js Javascript
+#### Estilização: CSS 
 
-#### Este projeto é um projeto de aprendizado.Conforme avanço nos estudos melhorias serão implantadas
+#### Este projeto é um projeto de aprendizado.Conforme avanço nos estudos melhorias serão implantadas.
